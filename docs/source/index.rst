@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Python MCU's documentation!
+欢迎使用Python MCU文档!
 ======================================
 
 .. toctree::
