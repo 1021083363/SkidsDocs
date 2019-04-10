@@ -18,7 +18,7 @@ Welcome to Python MCU's documentation!
    pwm_led
    wifi
 
-Indices and tables
+
 ==================
 
 * :ref:`genindex`
