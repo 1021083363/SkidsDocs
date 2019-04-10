@@ -20,13 +20,13 @@
     {% endfor %}.
   </p-->
 
-  <p><strong> MicroPython and {{ port_name }}的文档:</strong></p>
+  <p><strong> MicroPython 和 {{ port_name }}的文档:</strong></p>
 
   <table class="contentstable"><tr>
     <td width="40%" style="padding-left:2em;">
       {% if port in ("pyboard", "wipy", "esp8266") %}
         <p class="biglink">
-          <a class="biglink" href="{{ pathto("source/index") }}">Welcome to Python MCU’s documentation!</a><br/>
+          <a class="biglink" href="{{ pathto("source/index") }}">欢迎使用Python MCU文档!</a><br/>
         </p>
         <p class="biglink">
           <a class="biglink" href="{{ pathto(port + "/general") }}">trailbreaker的基本信息</a><br/>
