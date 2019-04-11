@@ -12,7 +12,7 @@ trailbreaker的MicroPython教程
    :maxdepth: 1
    :numbered:
 
-   intro.rst
+
    script.rst
    repl.rst
    leds.rst
