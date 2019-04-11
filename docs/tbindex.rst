@@ -2,8 +2,7 @@ MicroPython documentation and references
 ========================================
 
 .. toctree::
-   :maxdepth: 2
-   :numbered:
+   :maxdepth: 1
 
     source/index.rst
     pyboard/general.rst
